@@ -42,5 +42,5 @@ body{
 ```
 
 ## Resultado:
-<a href="https://github.com/carlossanchezarg/unidad3/blob/master/tp3/CSSinicial/index.html" target="_top">TP3</a>
+<a href="https://carlossanchezarg.github.io/unidad3/">TP3</a>
 

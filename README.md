@@ -41,6 +41,3 @@ body{
 }
 ```
 
-## Resultado:
-<a href="https://carlossanchezarg.github.io/unidad3/">TP3</a>
-

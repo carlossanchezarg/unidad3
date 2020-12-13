@@ -42,5 +42,5 @@ body{
 ```
 
 ## Resultado:
-<iframe src="https://codepen.io/team/codepen/embed/preview/PNaGbb" style="width:100% height:300px;"></iframe>
+<a href="https://github.com/carlossanchezarg/unidad3/blob/master/tp3/CSSinicial/index.html" target="_top">TP3</a>
 

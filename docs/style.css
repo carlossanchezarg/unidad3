@@ -1,0 +1,16 @@
+body{
+    margin:75px 350px;
+    padding: 0px;
+    background-color:#00FF00; 
+    height: 700px;
+    width: 700px;
+}
+
+
+.caja_flor{
+    background-color:yellow;
+    filter:invert(28%) sepia(82%) saturate(7482%) hue-rotate(355deg) brightness(102%) contrast(120%);
+    height: 500px;
+    width: 500px;
+    display:block;   
+}

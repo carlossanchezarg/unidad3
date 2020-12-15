@@ -10,6 +10,8 @@ body{
 .caja_flor{
     background-color:yellow;
     filter:invert(28%) sepia(82%) saturate(7482%) hue-rotate(355deg) brightness(102%) contrast(120%);
+    margin:0px;
+    padding:100px;
     height: 500px;
     width: 500px;
     display:block;   
